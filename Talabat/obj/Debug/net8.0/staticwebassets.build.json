@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "y1axf4i4Rp0BKWBIRwWfFFsIlJXRyZoP5C8/5GYr/rM=",
+  "Source": "Talabat.api",
+  "BasePath": "_content/Talabat.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.api\\wwwroot",
+      "Source": "Talabat.api",
+      "ContentRoot": "D:\\.net\\.net\\Ahmed Nassr\\Api\\Talabat solution\\Talabat\\wwwroot\\",
+      "BasePath": "_content/Talabat.api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.net\\.net\\Ahmed Nassr\\Api\\Talabat solution\\Talabat\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Talabat.api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net\\Ahmed Nassr\\Api\\Talabat solution\\Talabat\\wwwroot\\",
+      "BasePath": "_content/Talabat.api",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Identity": "D:\\.net\\.net\\Ahmed Nassr\\Api\\Talabat solution\\Talabat\\wwwroot\\images\\products\\sb-ang2.png",
+      "SourceId": "Talabat.api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net\\Ahmed Nassr\\Api\\Talabat solution\\Talabat\\wwwroot\\",
+      "BasePath": "_content/Talabat.api",
+      "RelativePath": "images/products/sb-ang2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
+    }
+  ]
+}

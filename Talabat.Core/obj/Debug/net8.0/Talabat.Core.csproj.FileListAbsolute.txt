@@ -1,0 +1,14 @@
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\bin\Debug\net8.0\Talabat.Core.deps.json
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\bin\Debug\net8.0\Talabat.Core.runtimeconfig.json
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\bin\Debug\net8.0\Talabat.Core.dll
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\bin\Debug\net8.0\Talabat.Core.pdb
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\Talabat.Core.AssemblyInfo.cs
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\Talabat.Core.dll
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\refint\Talabat.Core.dll
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\Talabat.Core.pdb
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\Talabat.Core.genruntimeconfig.cache
+D:\.net\.net\Ahmed Nassr\Api\Talabat solution\Talabat.Core\obj\Debug\net8.0\ref\Talabat.Core.dll
